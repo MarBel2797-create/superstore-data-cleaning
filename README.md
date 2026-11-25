@@ -41,4 +41,4 @@
 Датасет Superstore Sales (открытые данные, GitHub).
 
 ## 📄 Лицензия
-MIT
+[MIT](LICENSE.md)
